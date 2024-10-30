@@ -1,0 +1,16 @@
+# Ignore Android Studio files
+.idea/
+.gradle/
+build/
+app/build/
+
+# Ignore APK files
+*.apk
+
+# Ignore log files and temp files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
